@@ -42,15 +42,15 @@ footer{
     margin:auto;
   }
   section{
-    width:calc(1024px-718px);
+    width:calc(1024px - 718px);
     float:left;
   }
   #aside{
-    width:calc(1024px-718px);
+    width:calc(1024px - 718px);
     float:left;
   }
   aside{
-    width:calc(100%-20px);
+    width:calc(100% - 20px);
   }
   #main:after{
     content:"";
