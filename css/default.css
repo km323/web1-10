@@ -30,5 +30,11 @@ footer{
     width:calc(50%-20px);
     float:left;
   }
+  #side:after{
+    content:"";
+    display:block;
+    clear:both;
+  }
+}
   
       
