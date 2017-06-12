@@ -25,7 +25,7 @@ footer{
   background-color:blue;
   text-align:center;
 }
-@media screen and(min-width:641px){
+@media screen and (min-width:641px){
   aside{
     width:calc(50% - 20px);
     float:left;
@@ -36,7 +36,7 @@ footer{
     clear:both;
   }
 }
-@media screen and(min-width:1025px){
+@media screen and (min-width:1025px){
   #main{
     max-width:1024px;
     margin:auto;
