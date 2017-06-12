@@ -42,7 +42,7 @@ footer{
     margin: auto;
   }
   section{
-    width: calc(1024px - 718px);
+    width: calc(70px - 20px);
     float:left;
   }
   #aside{
